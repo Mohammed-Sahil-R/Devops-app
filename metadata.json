@@ -1,0 +1,6 @@
+{
+  "name": "DevOps Interactive Guide",
+  "description": "An interactive learning platform for DevOps concepts, including CI/CD pipelines, Docker containerization, Kubernetes orchestration, and Terraform Infrastructure as Code with live visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
